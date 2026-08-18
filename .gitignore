@@ -40,3 +40,7 @@
 # folders
 .vs
 out
+
+!project/resources/
+!project/resources/**/*.obj
+!project/resources/*.obj
